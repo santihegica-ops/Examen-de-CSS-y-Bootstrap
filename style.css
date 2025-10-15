@@ -1,0 +1,29 @@
+.nav-login{
+  font-size: 0.8rem;
+  
+}
+.nav-main{
+  img{
+    height: 30px;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  a:hover{
+    border-bottom:2px solid red;
+  }
+}
+
+.content{
+  background-image: url(img/background-content.jpg);
+  background-size: contain;
+  background-repeat: no-repeat ;
+  padding-top: 200px;
+}
+
+.boton{
+  width: 200px;
+  height: 50px;
+  border-radius: 0%;
+}
